@@ -1,5 +1,3 @@
-# Customer-Churn-Analysis
-A Python project analyzing customer churn using Exploratory Data Analysis (EDA). Insights into demographic, behavioral, and financial factors influencing churn using real-world bank dataset.
 # 📊 Customer Churn Analysis
 
 A data science project using **Python** to analyze customer churn in the banking sector. This project uses **Exploratory Data Analysis (EDA)** techniques to uncover patterns and relationships between customer demographics, behavior, and churn outcomes.
