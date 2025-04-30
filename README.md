@@ -4,7 +4,7 @@ A data science project using **Python** to analyze customer churn in the banking
 
 ---
 
-## 📌 Project Objective
+## 📌 Project Objective  
 
 To identify key factors responsible for customer churn in a bank using data visualization and statistical analysis, helping institutions reduce attrition through data-driven decision-making.
 
